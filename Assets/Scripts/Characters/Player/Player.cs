@@ -18,7 +18,6 @@ public class Player : Character // Наследуем от Character
         Debug.Log("Player created: " + Name);
     }
     
-
     // Метод для экипировки предмета
     public void EquipItem(ItemData item)
     {
